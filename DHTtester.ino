@@ -1,5 +1,5 @@
 // Example testing sketch for various DHT humidity/temperature sensors
-// Tech at Home
+// NOUHA BL
 
 #include "DHT.h"
 
